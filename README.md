@@ -1,2 +1,2 @@
 # html-resume
-Professional resume on HTML
+Professional resume made in HTML
